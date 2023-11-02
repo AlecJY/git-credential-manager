@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <InstallFromSource>false</InstallFromSource>
-    <InstallPrefix>/usr/local</InstallPrefix>
+    <InstallFromSource>true</InstallFromSource>
+    <InstallPrefix>../../../buildoutput</InstallPrefix>
   </PropertyGroup>
 
   <ItemGroup>
