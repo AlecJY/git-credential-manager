@@ -39,7 +39,7 @@ PROJ_OUT="$OUT/linux/Packaging.Linux"
 
 # Build parameters
 FRAMEWORK=net8.0
-RUNTIME=linux-x64
+RUNTIME=linux-arm64
 
 # Perform pre-execution checks
 CONFIGURATION="${CONFIGURATION:=Debug}"
